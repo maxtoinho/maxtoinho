@@ -1,4 +1,4 @@
-- 👋 Olá sou @maxtoinho
+- 👋 Olá sou  Max  Ribeiro
 - 👀 Interessado no ramo de programação e apaixonado por games.
 - 🌱 Atualmente estou aprendendo programação na linguagem JAVA com IDE Android Studio
 - 💞️ Colaborando em todos os aspectos de programação e gestão, eterno aprendiz.
